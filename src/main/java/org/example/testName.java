@@ -40,7 +40,7 @@ public static String generateLogin(String data){
     }
 
     public static void main(String[] args) {
-        System.out.println(generateLogin("Radrigez Mayk Vazovsliy"));
+        System.out.println(generateLogin("Ширалиев Магаммед Х"));
     }
 
 // SUBSTRING - ОН БЕРЕТ ИЗ СЛОВА КАКУЮ-ТО ЧАСТЬ КОТОРКУЮ ТЫ ХОЧЕШЬ ПОТОМ ЕЕ ПИШЕТЬ
